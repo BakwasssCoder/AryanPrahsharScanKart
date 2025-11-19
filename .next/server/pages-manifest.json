@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/buy": "pages/buy.js",
+  "/api/items/[id]": "pages/api/items/[id].js",
+  "/api/me": "pages/api/me.js",
+  "/item/[id]": "pages/item/[id].js",
+  "/api/items": "pages/api/items.js",
+  "/sell": "pages/sell.js",
+  "/api/qrcode": "pages/api/qrcode.js",
+  "/": "pages/index.js"
+}
